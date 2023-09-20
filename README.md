@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @gergahn
+- 👀 I’m interested in games and 3D art
+- 🌱 I’m currently learning Java Full Stack dev
+- 📫 gahn.gerardo@gmail.com
